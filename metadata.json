@@ -1,0 +1,6 @@
+{
+  "name": "PUMPKIN – The Haunted Maze",
+  "description": "Retro 16-bit pixel-art Halloween maze adventure game. Navigate haunted castle corridors, collect glowing pumpkins, evade ghosts and skeletons, unlock gates, and escape the darkness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
